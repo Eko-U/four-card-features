@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://github.com/Eko-U/nft_card](https://github.com/Eko-U/nft_card)
-- Live Site URL: [https://eko-u.github.io/nft_card/](https://eko-u.github.io/nft_card/)
+- Solution URL: [(https://github.com/Eko-U/nft_card](https://github.com/Eko-U/four-card-features)
+- Live Site URL: [https://eko-u.github.io/nft_card/](https://eko-u.github.io/four-card-features/)
 
 ### Built with
 
